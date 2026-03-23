@@ -9,7 +9,7 @@ Corporate default prediction using firm-level financial panel data is fundamenta
 - **Multi-Level Context Integration**: Seamlessly combines firm-level financials, industry categorizations, and macroeconomic indicators
 - **Structured Attention Mechanism**: Enforces temporal causality while enabling rich cross-context interactions
 - **Comprehensive Dataset**: Publicly available multi-source dataset for Chinese A-share listed companies
-- **State-of-the-Art Performance**: Outperforms 11 baseline models across multiple evaluation metrics
+- **State-of-the-Art Performance**: Outperforms 12 baseline models across multiple evaluation metrics
 - **Interpretability**: Provides insights through attention visualization and SHAP analysis
 
 ## 📊 Dataset
