@@ -1,4 +1,6 @@
-Official implementation of the paper **"A Context-Aware Transformer for Corporate Default Prediction: Integrating Firm-Level Financials with Industry and Macroeconomic Factors"** - a novel deep learning framework that holistically integrates multi-level contextual signals for corporate default prediction.
+## News
+
+  - [2026.04.27] Our paper **"A Context-Aware Transformer for Corporate Default Prediction: Integrating Firm-Level Financials with Industry and Macroeconomic Factors"** has been accepted to ICIC 2026.
 
 ## 📖 Abstract
 
