@@ -26,3 +26,18 @@ The dataset integrates three primary data components:
 
 ### Dataset Access
 The complete dataset is available at: [Google Drive Link](https://drive.google.com/drive/folders/1p314NhGGAX5tttvclkY6E7CmedQh1CAo?usp=sharing)
+
+## 📝 Citation
+
+If you find this repository useful, please cite the corresponding paper.
+
+```bibtex
+@inproceedings{zhang2026context,
+  title={A Context-Aware Transformer for Corporate Default Prediction: Integrating Firm-Level Financials with Industry and Macroeconomic Factors},
+  author={Zhang, Weidong and Lian, Shuxuan and Wang, Weiming and Xie, Haoran and Wang, Fu Lee},
+  booktitle={International Conference on Intelligent Computing},
+  pages={21--32},
+  year={2026},
+  organization={Springer}
+}
+```
